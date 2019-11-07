@@ -1,0 +1,9 @@
+/*
+    A script for testing Tiny Language syntax.
+*/
+
+// boolean expressions
+assert(true || false);
+assert(!false);
+assert(true && true);
+println("All Assertions have passed.");
